@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c23d8cb1-9b9e-4a93-b831-2e918404f377" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/calculator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/model/CalculatorModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/view/CalculatorView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +82,7 @@
       <workItem from="1776943235539" duration="27000" />
       <workItem from="1776943310682" duration="4600000" />
       <workItem from="1776948013209" duration="36000" />
+      <workItem from="1776949803061" duration="14000" />
     </task>
     <servers />
   </component>
